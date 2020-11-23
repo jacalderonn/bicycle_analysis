@@ -1,4 +1,4 @@
-# Tableau analysis of Boston Cyclists
+# Tableau Analysis of Boston Cyclists
 
 Analysis about Boston's city bycicle data. The analysis includes
 
